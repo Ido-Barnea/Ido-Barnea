@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **dodo.barnea@gmail.com**
 
-- ⚡ Fun fact **Snails can sleep up to three years at a time.**
+- ⚡ Fun fact **Some snails can sleep up to three years at a time.**
 
 <p align="center">‏‏‎ ‎</p>
 
