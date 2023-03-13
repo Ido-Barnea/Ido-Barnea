@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ido</h1>
 
-<div align="center"><img alt="My Stat Block" src="https://github.com/Ido-Barnea/Ido-Barnea/blob/main/ido.png"/></div>
+<div align="center"><img style="width: 90%" alt="My Stat Block" src="https://github.com/Ido-Barnea/Ido-Barnea/blob/main/ido.png"/></div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
