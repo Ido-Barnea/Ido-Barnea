@@ -1,21 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ido</h1>
-<h3 align="center">A passionate mobile developer</h3>
 
-<p align="center">‏‏‎ ‎</p>
-
-<img align="right" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966" width=400/>
-
-<p align="center">‏‏‎ ‎</p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ido-barnea&label=Profile%20views&color=0e75b6&style=flat" alt="ido-barnea" /> </p>
-
-- 💬 Ask me about **Android Development**
-
-- 📫 How to reach me **dodo.barnea@gmail.com**
-
-- ⚡ Fun fact **Some snails can sleep up to three years at a time.**
-
-<p align="center">‏‏‎ ‎</p>
+<div align="center"><img style="width: 85%" alt="My Stat Block" src="https://github.com/Ido-Barnea/Ido-Barnea/blob/main/ido.png"/></div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,8 +13,6 @@
 <p align="center">‏‏‎ ‎</p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ido-barnea&show_icons=true&theme=dark&locale=en&layout=compact" alt="ido-barnea" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ido-barnea&show_icons=true&theme=dark&locale=en" alt="ido-barnea" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ido-barnea&theme=dark" alt="ido-barnea" /></p>
 
