@@ -12,7 +12,6 @@
 
 <p align="center">‏‏‎ ‎</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ido-barnea&show_icons=true&theme=dark&locale=en&layout=compact" alt="ido-barnea" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ido-barnea&theme=dark" alt="ido-barnea" /></p>
+**<img align="left" src="https://github-readme-stats.vercel.app/api?username=ido-barnea&theme=dark" />**
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ido-barnea&theme=dark" />
 
